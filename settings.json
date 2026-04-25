@@ -8,7 +8,7 @@
   "server": {
     "ip": "MINENEP.aternos.me",
     "port": 55701,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -34,7 +34,7 @@
         "Subscribe to NotBleue!",
         "I like to play Minecraft!"
       ]
-    ],
+    },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
@@ -73,7 +73,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1497498252789026826/a14eOhBNKbaEZz2QGULeIjP_j6Sof1B4tZaqPbTWtqexMN3K7Dv7tHWnxrsqbWSgRw4U",
     "events": {
       "connect": true,
       "disconnect": true,
