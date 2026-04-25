@@ -30,9 +30,8 @@
       "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": false
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+      "messages": [
+        "Subscribe to NotBleue!",
         "I like to play Minecraft!"
       ]
     },
