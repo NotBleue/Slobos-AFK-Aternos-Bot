@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "matribhumi.aternos.me",
-    "port": 45668,
-    "version": "",
+    "ip": "MINENEP.aternos.me",
+    "port": 55701,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -30,7 +30,7 @@
       "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": [
+      "messages": false
         "I'm a regular player",
         "Subscribe to Slobos!",
         "I like to play Minecraft!"
